@@ -3,6 +3,7 @@
 **About**<br>
 
 **Dataset**<br>
+Retrieve from https://www.kaggle.com/c/titanic/data?select=train.csv
 
 **Objective**<br>
 
